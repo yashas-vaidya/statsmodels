@@ -18,7 +18,7 @@ if debug_warnings:
 
 def test(extra_args=None, exit=False):
     """
-    Run the test suite
+    Run the test suite of tests
 
     Parameters
     ----------
